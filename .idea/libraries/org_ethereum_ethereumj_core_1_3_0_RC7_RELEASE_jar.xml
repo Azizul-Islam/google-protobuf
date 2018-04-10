@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.ethereum:ethereumj-core:1.3.0-RC7-RELEASE@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ethereum/ethereumj-core/1.3.0-RC7-RELEASE/d8b404915e4e55d138d9cd89b6310b8e20047035/ethereumj-core-1.3.0-RC7-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ethereum/ethereumj-core/1.3.0-RC7-RELEASE/fcbee0450913cea6afc1b11705a12f31ac85351c/ethereumj-core-1.3.0-RC7-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

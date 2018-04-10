@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="cc.mvdan.accesspoint:library-0.2.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.2.0.aar/e4c872f1b6288f6771d7cc21d5fd8f4b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.2.0.aar/e4c872f1b6288f6771d7cc21d5fd8f4b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cc.mvdan.accesspoint/library/0.2.0/341a49b93206d750ed624a91ebc60575a77935c2/library-0.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
